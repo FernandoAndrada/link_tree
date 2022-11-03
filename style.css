@@ -1,0 +1,32 @@
+*{
+  background-color: aliceblue;
+}
+
+
+h1{text-align: center;
+  color: grey
+}  
+h2{text-align: center;
+  text-decoration: none;
+   color: rgb(102, 99, 99)
+}  
+h2{
+  background-color: rgb(186, 216, 216);
+  border-radius: 7px;
+  text-decoration: none;
+  margin: 25px;
+  padding: 2%;
+}
+h2:hover{
+  
+  background-color: mediumblue;
+  color: aliceblue;
+  transition: 0.5s;
+  opacity: 0.7;
+}
+img{
+  width: auto;
+  margin:auto;
+  display: block;
+  border-radius: 100%;
+}
